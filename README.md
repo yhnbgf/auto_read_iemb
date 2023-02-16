@@ -1,6 +1,8 @@
-# auto_read_iemb
+# Iemb AUTOREADER
 Hi everyone, this script autoreads iemb messages for u!
-For ashton, whos reading this today, will update u more tmr
+For ashton, whos reading this today, hello
+
+will include steps to reproduce and try tmr
 
 
 
